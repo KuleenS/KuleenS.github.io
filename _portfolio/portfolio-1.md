@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Optimization Algorithms for Subway Challenge"
+excerpt: "The Subway Challenge is an open record put out by the Guinness World Records Company. The goal of the challenge is to visit all 472 stations on the New York City Subway System in the shortest amount of time. We transformed the New York Subway System into a representation that a computer can solve. We then ran a couple different solvers on our representation: Nearest Neighbor Search and Ant Colony Optimizer. Through trial and error, we found multiple tours that beat the world record."
 collection: portfolio
 ---
+The Subway Challenge is an open record put out by the Guinness World Records Company. The goal of the challenge is to visit all 472 stations on the New York City Subway System in the shortest amount of time. We transformed the New York Subway System into a representation that a computer can solve. We then ran a couple different solvers on our representation: Nearest Neighbor Search and Ant Colony Optimizer. Through trial and error, we found multiple tours that beat the world record.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Poster can be found here: https://designday.jhu.edu/wp-content/uploads/formidable/6/SubwayChallengePosterv4-2.pdf
+
+I was featured in the HUB! https://hub.jhu.edu/2022/04/29/students-wrap-up-design-day-projects/
+
+I was a featured project for the 2022 Design Day: https://designday.jhu.edu/wp-content/uploads/2022/04/2022-wse-design-day-program.pdf
+
