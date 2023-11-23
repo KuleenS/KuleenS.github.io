@@ -11,7 +11,7 @@ title                    : "Kuleen Sasse"
 title_separator          : "-"
 name                     : &name "Kuleen Sasse"
 description              : &description "CS/AMS Student at JHU"
-url                      : https://KuleenS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kuleens.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KuleenS.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,10 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Computer Science and Applied Math Student at JHU"
   location         : "Baltimore, MD"
+  emailaddr        : "xfnffr1 ng wu.rqh (rot13.com)"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=M6-o86kAAAAJ&hl=en"
-  email            : "xfnffr1 ng wu.rqh (rot13.com)"
+  email            : 
   researchgate     : 
   uri              :
   bitbucket        :
