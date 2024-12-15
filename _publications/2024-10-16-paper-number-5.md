@@ -6,7 +6,7 @@ excerpt: 'As Vision Language Models (VLMs) gain widespread use, their fairness r
 date: 2024-10-16
 venue: 'Under Review at NAACL 2025'
 paperurl: 'https://arxiv.org/pdf/2410.13146'
-citation: 'Mapping Bias in Vision Language Models: Signposts, Pitfalls, and the Road Ahead. K Sasse, S Chen, J Pond, D Bitterman, J Osborne - arXiv preprint arXiv:2410.13146, 2024'
+citation: 'Mapping Bias in Vision Language Models: Signposts, Pitfalls, and the Road Ahead. K Sasse, S Chen, J Pond, D Bitterman, J Osborne - arXiv preprint arXiv:2410.13146, 2024.'
 ---
 
 <a href='https://arxiv.org/pdf/2410.13146'>Download paper here</a>
