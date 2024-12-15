@@ -45,3 +45,4 @@ Teaching
 Service and leadership
 ======
 * JHU Quizbowl Tournament Director
+* Astrojays Avionics Subsystem Head
