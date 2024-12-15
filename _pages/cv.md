@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Research Assistant: University of Alabama Birmingham School Of Medicine Informatics Institute
+* Research Assistant: University of Alabama Birmingham: Department of Biomedical Infomratics and Data Science
 * Research Assistant: Center for Language and Speech Processing
-* Affiliate Faculty: George Mason University
+* Research Assistant: George Mason University
 * Research Intern: Johns Hopkins Applied Physics Lab
+* Research Scientist Intern: Johns Hopkins Applied Physics Lab
 * Research Engineering Intern: Johns Hopkins Applied Physics Lab
-* Software Engineering Intern: Johns Hopkins Applied Physics Lab
 
 Publications
 ======
