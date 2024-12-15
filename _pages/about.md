@@ -12,7 +12,7 @@ Hi, I am Kuleen, a senior Computer Science and Applied Math Double Major at John
 I am generally interested in trustworthy and multimodal models for practical applications like rare disease monitoring and computational social science. 
 
 I split my time generally across a couple NLP labs
-- University of Alabama Birmingham: focusing on synthetic data, label bias, drug repurposing and knowledge graphs
+- University of Alabama Birmingham: focusing on information extraction, synthetic data, label bias, drug repurposing and knowledge graphs for clinical and biomedical applications
 - Johns Hopkins Center for Language and Speech Processing: LLM fairness and implicit/tricky hate speech detection
 - AIM Harvard: multimodal fairness and mechanistic interpretability
 - Johns Hopkins University Applied Physics Lab: long form video understanding, creating pretraining corpora from PDFs, and building AutoML systems for beginners
