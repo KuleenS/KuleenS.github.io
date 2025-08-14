@@ -87,22 +87,12 @@
         ]
       },
       {
-        "name": "Mass General Bringham"
-      },
-      {
-        "position": "Research Assistant"
-      },
-      {
-        "location": "Boston, MA"
-      },
-      {
-        "startDate": "2024-01"
-      },
-      {
-        "endDate": "2025-05"
-      },
-      {
-        "highlights": [
+        "name": "Mass General Brigham",
+        "position": "Research Assistant",
+        "location": "Boston, MA",
+        "startDate": "2024-01",
+         "endDate": "2025-05",
+         "highlights": [
           "Measuring demographic fairness and bias and its robustness in vision language models (VLMs)",
           "Developing steering methods to reduce bias and increase robustness in VLMs",
           "Leveraging sparse autoencoders (SAEs) for interpretable classification",
