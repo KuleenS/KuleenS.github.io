@@ -25,7 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m **Kuleen Sasse**, a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) advised by [Gillian Hadfield](https://www.gillianhadfield.com/). 
+Hi! I’m Kuleen Sasse, a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) advised by [Gillian Hadfield](https://www.gillianhadfield.com/). I am broadly interested in AI Safety and Responsible AI. 
 
 I am fortunate for my work to be supported by [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
+In my free time, I like baking, hunting Wikipedia for fun facts, learning about retro phones and computers, and exploring random and off the beaten path places! 
