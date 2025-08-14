@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -412,16 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-received-outstanding-senior-award-in-cs-at-jhu",
+          title: 'Received Outstanding Senior Award in CS at JHU!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-recieved-the-nsf-grfp-a-glimmer-of-hope-during-this-difficult-phd-application-season",
+          title: 'Recieved the NSF GRFP! A glimmer of hope during this difficult PhD application...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-poster-presentation-in-vienna-at-acl-main-2025-presenting-my-work-on-dog-whistles",
+          title: 'Poster Presentation in Vienna at ACL Main 2025! Presenting my work on dog...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
