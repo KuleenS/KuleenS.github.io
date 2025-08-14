@@ -1,97 +1,134 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+basics:
+  name: Kuleen Sasse
+  label: Graduate Student & Researcher
+  email: ksasse1@jh.edu
+  location:
+    city: Baltimore
+    region: MD
+    countryCode: US
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+education:
+  - institution: Johns Hopkins University
+    location: Baltimore, MD
+    area: Computer Science, Applied Mathematics and Statistics, Mathematics (Minor)
+    studyType: Bachelor of Science
+    startDate: 2021-08
+    endDate: 2025-05
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+awards:
+  - title: NSF Graduate Research Fellowship
+    date: 2024
+    summary: "$159,000"
+  - title: WSE Undergraduate Conference Travel Fund
+    summary: "$1,600"
+  - title: Outstanding Senior Award in Computer Science
+    summary: "$500"
+  - title: 4th Place Overall in LitCoin NLP Challenge
+    summary: Sponsored by NIH NCATS
+  - title: APL Inventors Award
+    date: 2023
+  - title: Bloomberg Distinguished Professorship Summer Program Awardee
+    summary: "$6,000 (Declined)"
+  - title: Dean's List
+  - title: Top Secret Clearance
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+work:
+  - name: Johns Hopkins University
+    position: Undergraduate Research Assistant
+    location: Baltimore, MD
+    startDate: 2023-01
+    highlights:
+      - Researched and evaluated demographic fairness of LLMs in ICL settings, published at NLP for Positive Impact @ EMNLP 2024
+      - Led project on detecting novel political dog whistles in tweets (ACL 2025)
+      - Developing lightweight multi-axis controllable summarization methods
+  - name: University of Alabama Birmingham
+    position: Undergraduate Research Assistant
+    location: Birmingham, AL
+    startDate: 2020-02
+    highlights:
+      - Developed methods to enhance in-domain/out-of-domain performance in biomedical IE models (manuscript under review)
+      - Developing synthetic data generation package for bio-clinical IE
+      - Investigated evaluation of social bias in multimodal models
+      - Developing interpretable debiasing with Sparse Autoencoders (under review)
+      - Studied SAE features for LLM/multimodal classifiers (under review)
+      - Contributed to LitCoin competition team (hyperparameter tuning, NER architectures)
+      - Constructed 40M-edge knowledge graph from PubMed abstracts for GNN-based drug repurposing
+  - name: George Mason University
+    position: Undergraduate Research Assistant
+    location: Fairfax, VA
+    startDate: 2021-06
+    endDate: 2024-06
+    highlights:
+      - Mined Twitter for vaccine hesitancy signals to complement survey data
+      - Co-authored PLOS ONE paper
+  - name: Johns Hopkins University Applied Physics Lab
+    position: LLM Research Intern
+    location: Laurel, MD
+    startDate: 2024-05
+    endDate: 2025-05
+    highlights:
+      - Led methods to improve LLM long-video understanding (manuscript under review)
+      - Directed data curation for APL's first LLM from scratch
+      - Created 150+ web scrapers for high-quality pretraining PDFs
+  - name: Johns Hopkins University Applied Physics Lab
+    position: NLP Research Engineering Intern
+    location: Laurel, MD
+    startDate: 2022-05
+    endDate: 2024-05
+    highlights:
+      - Led adversarial sampling project for fake text detectors (GEM @ EMNLP 2023)
+      - Developed 20,000+ line AutoML tool, securing $40k follow-on funding
+      - Co-developed research proposal advancing to funding final round
+      - Optimized communication simulation with 4x speedup
+      - Evaluated data management platforms for government cost savings
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+publications:
+  - name: Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats
+    publisher: ACL 2025
+    releaseDate: 2025
+    authors: ["K Sasse et al."]
+    type: conference
+  - name: Understanding the determinants of vaccine hesitancy in the United States
+    publisher: PLOS ONE
+    releaseDate: 2024
+    authors: ["K Sasse et al."]
+    type: journal
+  - name: Selecting Shots for Demographic Fairness in Few-Shot Learning with Large Language Models
+    publisher: NLP For Positive Impact @ EMNLP 2024
+    authors: ["C Aguirre", "K Sasse et al."]
+    type: workshop
+  - name: To Burst or Not to Burst: Generating and Quantifying Improbable Text
+    publisher: GEM Workshop @ EMNLP 2023
+    authors: ["K Sasse et al."]
+    type: workshop
+  - name: Identification of Cancer Entities in Clinical Text Combining Transformers with Dictionary Features
+    publisher: IberLEF @ SEPLN 2020
+    authors: ["J Osborne", "T O'Leary", "J Del Monte", "K Sasse"]
+    type: workshop
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+volunteer:
+  - organization: Johns Hopkins University Rocketry Club
+    position: Avionics Subsystem Lead
+    startDate: 2024-01
+    endDate: 2025-05
+    highlights:
+      - Led team of 6 engineers on rocket electronics/software
+      - Built electronics bays for two-stage rocket to 10,000 ft
+      - Created GPS tracking systems
+      - Designed data acquisition for rocket motor testing
+  - organization: Johns Hopkins Quizbowl Club
+    position: Vice President
+    startDate: 2022-08
+    endDate: 2025-05
+    highlights:
+      - Ran over 10 tournaments (60+ students each)
+      - Coordinated travel/accommodation for nationals
+      - Assistant Director for ACF Nationals
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+skills:
+  - name: Programming
+    keywords: ["Python", "NLP", "Machine Learning", "Deep Learning"]
+  - name: Data Science
+    keywords: ["LLMs", "NER", "Bias Evaluation", "Sparse Autoencoders", "Controllable Summarization"]
+  - name: Tools
+    keywords: ["LaTeX", "Git", "Web Scraping", "Knowledge Graphs", "AutoML"]
