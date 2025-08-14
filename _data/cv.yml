@@ -23,19 +23,24 @@ education:
 
 awards:
   - title: NSF Graduate Research Fellowship
-    date: 2024
+    date: 2025
     summary: "$159,000"
   - title: WSE Undergraduate Conference Travel Fund
+    date: 2025
     summary: "$1,600"
   - title: Outstanding Senior Award in Computer Science
+    date: 2025
     summary: "$500"
   - title: 4th Place Overall in LitCoin NLP Challenge
+    date: 2022
     summary: Sponsored by NIH NCATS
   - title: APL Inventors Award
     date: 2023
   - title: Bloomberg Distinguished Professorship Summer Program Awardee
+    date: 2022
     summary: "$6,000 (Declined)"
   - title: Dean's List
+    date: 2021-2025
 
 work:
   - name: Johns Hopkins University
