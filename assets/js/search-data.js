@@ -414,6 +414,9 @@ ninja.data = [{
           section: "News",},{id: "news-poster-presentation-in-vienna-at-acl-main-2025-presenting-my-work-on-dog-whistles",
           title: 'Poster Presentation in Vienna at ACL Main 2025! Presenting my work on dog...',
           description: "",
+          section: "News",},{id: "news-released-pomelo-an-independent-research-project-that-i-worked-on-at-jhu-apl-that-spun-off-to-a-full-automl-package",
+          title: 'Released POMELO an independent research project that I worked on at JHU APL...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -460,18 +463,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/KuleenS", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/kuleen-sasse", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -486,13 +489,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/oldbayes", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
