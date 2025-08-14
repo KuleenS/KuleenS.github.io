@@ -19,10 +19,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! I’m Kuleen Sasse, a Ph.D. student in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) advised by [Gillian Hadfield](https://gillianhadfield.org/). I am broadly interested in AI Safety and Responsible AI. I am fortunate for my work to be supported by [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). 
