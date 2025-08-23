@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-released-pomelo-an-independent-research-project-that-i-worked-on-at-jhu-apl-that-spun-off-to-a-full-automl-package",
           title: 'Released POMELO an independent research project that I worked on at JHU APL...',
           description: "",
+          section: "News",},{id: "news-sparse-autoencoder-features-for-classifications-and-transferability-accepted-to-emnlp-2025-main",
+          title: 'Sparse Autoencoder Features for Classifications and Transferability accepted to EMNLP 2025 Main!',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
